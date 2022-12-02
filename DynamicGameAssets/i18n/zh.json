@@ -1,0 +1,6 @@
+{
+    "item-tooltip.added-by-mod": "Mod: {{name}}",
+    "not-enough-ingredients":  "需要更多的 {{item}}",
+    "not-enough-ingredients-generic": "配方原料不足",
+    "wrong-ingredient-selected": "没有以 {{item}} 为主要原料的食谱"
+}
