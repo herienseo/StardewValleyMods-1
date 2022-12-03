@@ -1,0 +1,68 @@
+{
+    /*********
+    ** Shop UI
+    *********/
+    // filter labels
+    "filter.category": "类别:",
+    "filter.sorting": "排序:",
+
+    // sort types
+    "sort.none": "无",
+    "sort.name": "名字",
+    "sort.price": "价格",
+
+    // category names
+    "categories.everything": "全部",
+    "categories.other": "其他的",
+    "categories.artisan-goods": "工匠的商品",
+    "categories.bait": "饵",
+    "categories.big-craftables": "大型工艺品",
+    "categories.boots": "靴子",
+    "categories.building-resources": "建筑资源",
+    "categories.clothing": "衣服",
+    "categories.cooking": "烹饪",
+    "categories.crafting": "工艺品",
+    "categories.eggs": "蛋类",
+    "categories.equipment": "设备",
+    "categories.fertilizer": "肥料",
+    "categories.fish": "鱼类",
+    "categories.flowers": "花",
+    "categories.fruits": "水果",
+    "categories.furniture": "家具",
+    "categories.gems": "宝石",
+    "categories.greens": "绿色蔬菜",
+    "categories.hats": "帽子",
+    "categories.ingredients": "材料",
+    "categories.junk": "垃圾",
+    "categories.meat": "肉类",
+    "categories.metals": "金属",
+    "categories.milk": "奶类",
+    "categories.minerals": "矿产",
+    "categories.monster-loot": "怪物战利品",
+    "categories.recipes": "食谱",
+    "categories.rings": "戒指",
+    "categories.seeds": "种子",
+    "categories.seedsOther": "其他的种子",
+    "categories.sell-to-pierre-or-marnie": "@可以在皮埃尔/玛妮那儿出售",
+    "categories.sell-to-pierre": "@可以在皮埃尔那儿出售",
+    "categories.sell-to-willy": "@可以在玛妮那儿出售",
+    "categories.syrups": "糖浆",
+    "categories.tackle": "钓具",
+    "categories.tools": "工具",
+    "categories.vegetables": "蔬菜",
+    "categories.weapons": "武器",
+
+
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+    "config.grid-layout.name": "网格布局",
+    "config.grid-layout.tooltip": "是否在商店中使用网格布局。",
+
+    "config.quantity-dialog.name": "对话框的数量",
+    "config.quantity-dialog.tooltip": "打开自定义购买金额的对话框。通过左talt /选项+右击打开。",
+
+    /** grid/std layout button hover text */
+    "button.grid-layout.tooltip": "选择网格布局",
+    "button.std-layout.tooltip": "选择标准布局"
+}
