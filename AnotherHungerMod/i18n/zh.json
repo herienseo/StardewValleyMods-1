@@ -1,0 +1,40 @@
+{
+    /*********
+    ** Buffs and debuffs
+    *********/
+    "buff.full": "饱腹感",
+    "buff.hungry": "饥饿",
+
+
+    /*********
+    ** Generic Mod Config Menu UI
+    *********/
+    "config.fullness-ui-X.name": "饱腹感 UI (X)",
+    "config.fullness-ui-X.tooltip": "饱腹感UI的X像素位置。",
+    "config.fullness-ui-Y.name": "饱腹感 UI (Y)",
+    "config.fullness-ui-Y.tooltip": "饱腹感UI的Y像素位置。",
+
+    "config.fullness-ui-alignment.name": "饱腹感 UI (alignment)",
+    "config.fullness-ui-alignment.tooltip": "游戏屏幕上完整UI的对齐方式。",
+    "config.fullness-ui-alignment.topLeft": "左上角",
+    "config.fullness-ui-alignment.topRight": "右上角",
+    "config.fullness-ui-alignment.bottomLeft": "左下角",
+    "config.fullness-ui-alignment.bottomRight": "右下角",
+
+    "config.fullness-max.name": "最大饱腹感",
+    "config.fullness-max.tooltip": "你能拥有的最大程度的饱腹感。",
+    "config.fullness-drain.name": "饱腹感消耗",
+    "config.fullness-drain.tooltip": "游戏内每分钟消耗的饱腹量。",
+
+    "config.edibility-multiplier.name": "食用倍率",
+    "config.edibility-multiplier.tooltip": "根据食物的可食性，你获得饱腹感的倍数。",
+
+    "config.positive-buff-threshold.name": "正向Buff阈值",
+    "config.positive-buff-threshold.tooltip": "应用正面buff所需的最小饱腹度。",
+    "config.negative-buff-threshold.name": "负向Buff阈值",
+    "config.negative-buff-threshold.tooltip": "应用负面buff所需的最大饱腹度。",
+    "config.starvation-damage.name": "饥饿损害",
+    "config.starvation-damage.tooltip": "当你没有饱腹时，每分钟所受的饥饿伤害。",
+    "config.unfed-spouse-penalty.name": "配偶饥饿惩罚",
+    "config.unfed-spouse-penalty.tooltip": "如果不给配偶吃的，你们的关系就会受到惩罚。"
+}
