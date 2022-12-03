@@ -6,8 +6,9 @@
     "button.mod-options": "MOD 选项",
 
     // mod list UI
-    "list.editable-heading": "配置 MOD",
-    "list.not-editable-heading": "Editable from the title screen:", // TODO
+    "list.editable-heading": "配置Mods",
+    "list.not-editable-heading": "可编辑的标题屏幕:",
+    "list.keybindings": "按键绑定",
 
     // mod config pages
     "config.buttons.cancel": "取消",
